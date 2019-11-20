@@ -1,4 +1,4 @@
-![Docker Pulls](https://img.shields.io/docker/pulls/io12/rust-musl-builder-lzma)
+[![Docker Pulls](https://img.shields.io/docker/pulls/io12/rust-musl-builder-lzma)](https://hub.docker.com/r/io12/rust-musl-builder-lzma)
 
 # rust-musl-builder-lzma
 
