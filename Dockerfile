@@ -1,6 +1,6 @@
 # Generate statically-linked musl builds
 
-FROM ekidd/rust-musl-builder
+FROM ekidd/rust-musl-builder:beta
 
 # Modified to include liblzma
 
